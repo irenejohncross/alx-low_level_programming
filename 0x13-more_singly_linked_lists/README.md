@@ -1,4 +1,3 @@
-0x13. C - More singly linked lists
 Requirements
 General
 Allowed editors: vi, vim, emacs
